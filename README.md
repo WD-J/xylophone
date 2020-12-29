@@ -13,7 +13,3 @@ Demonstrating Dart programming concepts such as lists, loops, functions, etc, as
 - What is the difference between var, const and final in Dart.
 - How to use Dart lists.
 - How to loop through code using a Dart for loop.
-
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp.
